@@ -1,7 +1,7 @@
 # Welcome to my profile, my name is Iliyan
 
 ## 💫 About Me:
-🔭 At the moment I am a part of a team developing a modern online marketplace.<br>🌱As of 2024 I am pursuing a Bachler's Degree in Aerospace Engineering at The Technical University in Sofia, Bulgaria.
+🔭 At the moment I am working as CTO at QuackStack LTD.<br>🌱As of 2024 I am pursuing a Bachler's Degree in Aerospace Engineering at The Technical University in Sofia, Bulgaria.
 
 
 ## 🌐 Socials:
